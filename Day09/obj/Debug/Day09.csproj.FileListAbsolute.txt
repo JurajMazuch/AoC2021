@@ -1,0 +1,7 @@
+C:\Users\Juraj\source\repos\AdventOfCode\2021\ConsoleApp1\Day09\bin\Debug\Day09.exe.config
+C:\Users\Juraj\source\repos\AdventOfCode\2021\ConsoleApp1\Day09\bin\Debug\Day09.exe
+C:\Users\Juraj\source\repos\AdventOfCode\2021\ConsoleApp1\Day09\bin\Debug\Day09.pdb
+C:\Users\Juraj\source\repos\AdventOfCode\2021\ConsoleApp1\Day09\obj\Debug\Day09.csprojAssemblyReference.cache
+C:\Users\Juraj\source\repos\AdventOfCode\2021\ConsoleApp1\Day09\obj\Debug\Day09.csproj.CoreCompileInputs.cache
+C:\Users\Juraj\source\repos\AdventOfCode\2021\ConsoleApp1\Day09\obj\Debug\Day09.exe
+C:\Users\Juraj\source\repos\AdventOfCode\2021\ConsoleApp1\Day09\obj\Debug\Day09.pdb
