@@ -1,0 +1,7 @@
+C:\Users\Juraj\source\repos\AdventOfCode\2021\ConsoleApp1\Day13\bin\Debug\Day13.exe.config
+C:\Users\Juraj\source\repos\AdventOfCode\2021\ConsoleApp1\Day13\bin\Debug\Day13.exe
+C:\Users\Juraj\source\repos\AdventOfCode\2021\ConsoleApp1\Day13\bin\Debug\Day13.pdb
+C:\Users\Juraj\source\repos\AdventOfCode\2021\ConsoleApp1\Day13\obj\Debug\Day13.csprojAssemblyReference.cache
+C:\Users\Juraj\source\repos\AdventOfCode\2021\ConsoleApp1\Day13\obj\Debug\Day13.csproj.CoreCompileInputs.cache
+C:\Users\Juraj\source\repos\AdventOfCode\2021\ConsoleApp1\Day13\obj\Debug\Day13.exe
+C:\Users\Juraj\source\repos\AdventOfCode\2021\ConsoleApp1\Day13\obj\Debug\Day13.pdb

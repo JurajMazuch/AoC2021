@@ -13,9 +13,9 @@ namespace Day10
 
             Stopwatch stopwatch = new Stopwatch();
             stopwatch.Start();
-            Console.WriteLine(" {0} >> {1} [ms]", Part1(file), stopwatch.ElapsedMilliseconds);
+            Console.WriteLine("The total syntax error score is {0}. >> {1} [ms]", Part1(file), stopwatch.ElapsedMilliseconds);
             stopwatch.Restart();
-            Console.WriteLine(" {0} >> {1} [ms]", Part2(file), stopwatch.ElapsedMilliseconds);
+            Console.WriteLine("The middle score is {0}. >> {1} [ms]", Part2(file), stopwatch.ElapsedMilliseconds);
             stopwatch.Stop();
 
             Console.Write("Press any key to continue . . . ");
